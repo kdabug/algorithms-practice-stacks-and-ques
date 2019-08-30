@@ -62,10 +62,10 @@ class LinkedListStack {
 
 //check if Stack works
 const myStackLinkedList = new LinkedListStack();
-myStackLinkedList.push("winnie");
-myStackLinkedList.push("buddy");
-myStackLinkedList.push("george");
-myStackLinkedList.push("thaisa");
+// myStackLinkedList.push("winnie");
+// myStackLinkedList.push("buddy");
+// myStackLinkedList.push("george");
+// myStackLinkedList.push("thaisa");
 // myStackLinkedList.peek();
-myStackLinkedList.pop();
+// myStackLinkedList.pop();
 console.log("myStackLinkedList", myStackLinkedList);

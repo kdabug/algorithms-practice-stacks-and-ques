@@ -26,10 +26,10 @@ class ArrayStack {
 
 //check if Stack works
 const myArrayStack = new ArrayStack();
-myArrayStack.push("winnie");
-myArrayStack.push("buddy");
-myArrayStack.push("george");
-myArrayStack.push("thaisa");
+// myArrayStack.push("winnie");
+// myArrayStack.push("buddy");
+// myArrayStack.push("george");
+// myArrayStack.push("thaisa");
 // myArrayStack.peek();
-myArrayStack.pop();
+// myArrayStack.pop();
 console.log("myArrayStack", myArrayStack);

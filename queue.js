@@ -54,9 +54,9 @@ class Queue {
 
 //check if QUEUE works
 const myQueue = new Queue();
-myQueue.enqueue("winnie");
-myQueue.enqueue("buddy");
-myQueue.enqueue("george");
-myQueue.enqueue("thaisa");
-myQueue.dequeue();
+// myQueue.enqueue("winnie");
+// myQueue.enqueue("buddy");
+// myQueue.enqueue("george");
+// myQueue.enqueue("thaisa");
+// myQueue.dequeue();
 console.log("myQueue", myQueue);
